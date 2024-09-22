@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 👋 Hi, I’m a passionate web developer and AI enthusiast working on projects like WakeWave, a Drowsiness Detection System. I enjoy building intuitive web apps with a focus on AI, machine learning, and computer vision. Currently exploring various domains in AI and always open to collaboration!<br><br>Fun fact: I love learning about AI as much as I enjoy a good cup of coffee!
 
